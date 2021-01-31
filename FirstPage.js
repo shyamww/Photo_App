@@ -63,7 +63,7 @@ export default class FirstPageView extends Component {
       },
       {
         name: 'St. George\'s Cathedral',
-        place: 'Agra, Uttar Pradesh',
+        place: 'Chennai',
         img: {uri: 'https://media-cdn.tripadvisor.com/media/photo-s/04/c4/f6/bf/front-entrance-and-church.jpg'},
       },
       {
@@ -79,7 +79,7 @@ export default class FirstPageView extends Component {
       
       {
         name: 'St. George\'s Cathedral',
-        place: 'Agra, Uttar Pradesh',
+        place: 'Chennai',
         img: {uri: 'https://www.tourmyindia.com/socialimg/st-georges-cathedral-agra.jpg'},
       },
       {
@@ -89,7 +89,7 @@ export default class FirstPageView extends Component {
       },
       {
         name: 'Taj Hotel',
-        place: 'Agra, Uttar Pradesh',
+        place: 'Mumbai',
         img: {uri: 'https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/a5/d8/c1/exterior.jpg'},
       },
       {
